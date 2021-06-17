@@ -1,0 +1,4002 @@
+{
+    "1": {
+        "answer": 51,
+        "equation": "76 - 25"
+    },
+    "2": {
+        "answer": 1,
+        "equation": "4 - 3"
+    },
+    "3": {
+        "answer": 17,
+        "equation": "26 - 9"
+    },
+    "4": {
+        "answer": 22,
+        "equation": "43 - 21"
+    },
+    "5": {
+        "answer": 2,
+        "equation": "30 - 28"
+    },
+    "6": {
+        "answer": 46,
+        "equation": "49 - 3"
+    },
+    "7": {
+        "answer": 3,
+        "equation": "10 - 7"
+    },
+    "8": {
+        "answer": 9,
+        "equation": "18 - 9"
+    },
+    "9": {
+        "answer": 4,
+        "equation": "10 - 6"
+    },
+    "10": {
+        "answer": 21,
+        "equation": "9 + 12"
+    },
+    "11": {
+        "answer": 1,
+        "equation": "6 - ( 3 + 2 )"
+    },
+    "12": {
+        "answer": 143,
+        "equation": "11 * 13"
+    },
+    "13": {
+        "answer": 926,
+        "equation": "( 692 + 692 ) - 458"
+    },
+    "14": {
+        "answer": 255,
+        "equation": "( 4 + 13 ) * 15"
+    },
+    "15": {
+        "answer": 10,
+        "equation": "6 + 4"
+    },
+    "16": {
+        "answer": 16,
+        "equation": "( 36 - 12 ) - 8"
+    },
+    "17": {
+        "answer": 469,
+        "equation": "697 - 228"
+    },
+    "18": {
+        "answer": 1414,
+        "equation": "732 + 682"
+    },
+    "19": {
+        "answer": 27,
+        "equation": "57 - 30"
+    },
+    "20": {
+        "answer": 66,
+        "equation": "523 - 457"
+    },
+    "21": {
+        "answer": 186,
+        "equation": "( 121 - 105 ) + 170"
+    },
+    "22": {
+        "answer": 20,
+        "equation": "4 * 5"
+    },
+    "23": {
+        "answer": 10,
+        "equation": "180 / 18"
+    },
+    "24": {
+        "answer": 1,
+        "equation": "5 - 4"
+    },
+    "25": {
+        "answer": 1,
+        "equation": "( 3 + 4 ) - 6"
+    },
+    "26": {
+        "answer": 60,
+        "equation": "65 - 5"
+    },
+    "27": {
+        "answer": 488,
+        "equation": "450 + 38"
+    },
+    "28": {
+        "answer": 1,
+        "equation": "( 13 + 15 ) / 28"
+    },
+    "29": {
+        "answer": 89,
+        "equation": "40 + 49"
+    },
+    "30": {
+        "answer": 2,
+        "equation": "4 / 2"
+    },
+    "31": {
+        "answer": 5,
+        "equation": "12 - 7"
+    },
+    "32": {
+        "answer": 2,
+        "equation": "17 - 15"
+    },
+    "33": {
+        "answer": 1,
+        "equation": "7 / ( 4 + 3 )"
+    },
+    "34": {
+        "answer": 63,
+        "equation": "78 - 15"
+    },
+    "35": {
+        "answer": 1,
+        "equation": "10 - ( 6 + 3 )"
+    },
+    "36": {
+        "answer": 1,
+        "equation": "( 4 - 8 ) + 5"
+    },
+    "37": {
+        "answer": 949,
+        "equation": "246 + 703"
+    },
+    "38": {
+        "answer": 2,
+        "equation": "7 - 5"
+    },
+    "39": {
+        "answer": 2,
+        "equation": "356 / 178"
+    },
+    "40": {
+        "answer": 3,
+        "equation": "19 - 16"
+    },
+    "41": {
+        "answer": 10,
+        "equation": "12 - 2"
+    },
+    "42": {
+        "answer": 4,
+        "equation": "50 - 46"
+    },
+    "43": {
+        "answer": 8142,
+        "equation": "177 * 46"
+    },
+    "44": {
+        "answer": 1,
+        "equation": "( 3 + 2 ) - 4"
+    },
+    "45": {
+        "answer": 39,
+        "equation": "( 9 + 33 ) - 3"
+    },
+    "46": {
+        "answer": 32,
+        "equation": "35 - 3"
+    },
+    "47": {
+        "answer": 13,
+        "equation": "5 + 8"
+    },
+    "48": {
+        "answer": 11,
+        "equation": "( 8 + 10 ) - 7"
+    },
+    "49": {
+        "answer": 26,
+        "equation": "12 + 14"
+    },
+    "50": {
+        "answer": 266,
+        "equation": "415 - 149"
+    },
+    "51": {
+        "answer": 57,
+        "equation": "97 - 40"
+    },
+    "52": {
+        "answer": 6,
+        "equation": "14 - 8"
+    },
+    "53": {
+        "answer": 4,
+        "equation": "20 / 5"
+    },
+    "54": {
+        "answer": 2,
+        "equation": "22 / 11"
+    },
+    "55": {
+        "answer": 24,
+        "equation": "14 + 10"
+    },
+    "56": {
+        "answer": 204,
+        "equation": "154 + 50"
+    },
+    "57": {
+        "answer": 20,
+        "equation": "6 + 14"
+    },
+    "58": {
+        "answer": 31,
+        "equation": "60 - ( 89 - 60 )"
+    },
+    "59": {
+        "answer": 10,
+        "equation": "13 - 3"
+    },
+    "60": {
+        "answer": 61,
+        "equation": "661 - 600"
+    },
+    "61": {
+        "answer": 11,
+        "equation": "( 12 - 15 ) + 14"
+    },
+    "62": {
+        "answer": 2,
+        "equation": "6 / 3"
+    },
+    "63": {
+        "answer": 2,
+        "equation": "52 / 26"
+    },
+    "64": {
+        "answer": 2,
+        "equation": "( 11 - 7 ) - 2"
+    },
+    "65": {
+        "answer": 139,
+        "equation": "149 - 10"
+    },
+    "66": {
+        "answer": 3,
+        "equation": "24 - 21"
+    },
+    "67": {
+        "answer": 4,
+        "equation": "8 / 2"
+    },
+    "68": {
+        "answer": 5,
+        "equation": "15 / 3"
+    },
+    "69": {
+        "answer": 22,
+        "equation": "11 * 2"
+    },
+    "70": {
+        "answer": 111,
+        "equation": "78 + 33"
+    },
+    "71": {
+        "answer": 22090603,
+        "equation": "( 1357 * 223 ) * 73"
+    },
+    "72": {
+        "answer": 125,
+        "equation": "310 - 185"
+    },
+    "73": {
+        "answer": 8,
+        "equation": "3 + 5"
+    },
+    "74": {
+        "answer": 75,
+        "equation": "( 40 - 2 ) + 37"
+    },
+    "75": {
+        "answer": 569,
+        "equation": "218 + 351"
+    },
+    "76": {
+        "answer": 2173,
+        "equation": "53 * 41"
+    },
+    "77": {
+        "answer": 2,
+        "equation": "4 - 2"
+    },
+    "78": {
+        "answer": 8,
+        "equation": "5 + 3"
+    },
+    "79": {
+        "answer": 2,
+        "equation": "11 - 9"
+    },
+    "80": {
+        "answer": 4300,
+        "equation": "215 * 20"
+    },
+    "81": {
+        "answer": 24,
+        "equation": "36 - 12"
+    },
+    "82": {
+        "answer": 7,
+        "equation": "14 / 2"
+    },
+    "83": {
+        "answer": 2,
+        "equation": "6 - 4"
+    },
+    "84": {
+        "answer": 687,
+        "equation": "( 632 + 465 ) - 410"
+    },
+    "85": {
+        "answer": 20,
+        "equation": "4 * 5"
+    },
+    "86": {
+        "answer": 30,
+        "equation": "50 - 20"
+    },
+    "87": {
+        "answer": 1,
+        "equation": "6 - ( 2 + 3 )"
+    },
+    "88": {
+        "answer": 17,
+        "equation": "51 / 3"
+    },
+    "89": {
+        "answer": 5,
+        "equation": "21 - 16"
+    },
+    "90": {
+        "answer": 22,
+        "equation": "317 - 295"
+    },
+    "91": {
+        "answer": 1,
+        "equation": "6 - 5"
+    },
+    "92": {
+        "answer": 366,
+        "equation": "408 - 42"
+    },
+    "93": {
+        "answer": 22,
+        "equation": "( 40 - 5 ) - 13"
+    },
+    "94": {
+        "answer": 1,
+        "equation": "14 - 13"
+    },
+    "95": {
+        "answer": 1,
+        "equation": "19 - 18"
+    },
+    "96": {
+        "answer": 1,
+        "equation": "3 - 2"
+    },
+    "97": {
+        "answer": 12,
+        "equation": "29 - 17"
+    },
+    "98": {
+        "answer": 30,
+        "equation": "10 + 20"
+    },
+    "99": {
+        "answer": 7,
+        "equation": "112 / 16"
+    },
+    "100": {
+        "answer": 15,
+        "equation": "20 - 5"
+    },
+    "101": {
+        "answer": 10,
+        "equation": "( 3 + 5 ) + 2"
+    },
+    "102": {
+        "answer": 8,
+        "equation": "19 - 11"
+    },
+    "103": {
+        "answer": 1,
+        "equation": "( 3 + 4 ) - 6"
+    },
+    "104": {
+        "answer": 154,
+        "equation": "14 * 11"
+    },
+    "105": {
+        "answer": 39,
+        "equation": "61 - 22"
+    },
+    "106": {
+        "answer": 96,
+        "equation": "16 * 6"
+    },
+    "107": {
+        "answer": 28462,
+        "equation": "828521 - 800059"
+    },
+    "108": {
+        "answer": 10011,
+        "equation": "141 * 71"
+    },
+    "109": {
+        "answer": 1,
+        "equation": "( 2 + 3 ) - 4"
+    },
+    "110": {
+        "answer": 23,
+        "equation": "58 - 35"
+    },
+    "111": {
+        "answer": 2,
+        "equation": "52 / 26"
+    },
+    "112": {
+        "answer": 1862,
+        "equation": "38 * 49"
+    },
+    "113": {
+        "answer": 4,
+        "equation": "7 - 3"
+    },
+    "114": {
+        "answer": 1,
+        "equation": "5 - 4"
+    },
+    "115": {
+        "answer": 84,
+        "equation": "6 * 14"
+    },
+    "116": {
+        "answer": 104,
+        "equation": "160 - 56"
+    },
+    "117": {
+        "answer": 10,
+        "equation": "400 / 40"
+    },
+    "118": {
+        "answer": 17,
+        "equation": "32 - 15"
+    },
+    "119": {
+        "answer": 10,
+        "equation": "489 - 479"
+    },
+    "120": {
+        "answer": 22,
+        "equation": "27 - 5"
+    },
+    "121": {
+        "answer": 3,
+        "equation": "7 - 4"
+    },
+    "122": {
+        "answer": 25,
+        "equation": "( 19 + 237 ) - 231"
+    },
+    "123": {
+        "answer": 4,
+        "equation": "8 - 4"
+    },
+    "124": {
+        "answer": 33,
+        "equation": "63 - 30"
+    },
+    "125": {
+        "answer": 12,
+        "equation": "14 - ( 12 - 10 )"
+    },
+    "126": {
+        "answer": 118,
+        "equation": "140 - 22"
+    },
+    "127": {
+        "answer": 5,
+        "equation": "70 / 14"
+    },
+    "128": {
+        "answer": 7,
+        "equation": "( 171 - 134 ) - 30"
+    },
+    "129": {
+        "answer": 192,
+        "equation": "( 47 + 111 ) + 34"
+    },
+    "130": {
+        "answer": 7,
+        "equation": "14 - 7"
+    },
+    "131": {
+        "answer": 9,
+        "equation": "20 - 11"
+    },
+    "132": {
+        "answer": 34,
+        "equation": "69 - 35"
+    },
+    "133": {
+        "answer": 60,
+        "equation": "( 22 + 40 ) - 2"
+    },
+    "134": {
+        "answer": 1,
+        "equation": "13 - 12"
+    },
+    "135": {
+        "answer": 308,
+        "equation": "11 * 28"
+    },
+    "136": {
+        "answer": 80,
+        "equation": "( 175 + 77 ) - 172"
+    },
+    "137": {
+        "answer": 4,
+        "equation": "115 - 111"
+    },
+    "138": {
+        "answer": 180,
+        "equation": "9 * 20"
+    },
+    "139": {
+        "answer": 2,
+        "equation": "8 / 4"
+    },
+    "140": {
+        "answer": 16,
+        "equation": "19 - 3"
+    },
+    "141": {
+        "answer": 15,
+        "equation": "23 - 8"
+    },
+    "142": {
+        "answer": 125,
+        "equation": "( 66 + 35 ) + 24"
+    },
+    "143": {
+        "answer": 30,
+        "equation": "( 7 + 15 ) + 8"
+    },
+    "144": {
+        "answer": 6,
+        "equation": "60 / 10"
+    },
+    "145": {
+        "answer": 137,
+        "equation": "257 - 120"
+    },
+    "146": {
+        "answer": 1124,
+        "equation": "214 + 910"
+    },
+    "147": {
+        "answer": 81,
+        "equation": "( 10 * 9 ) - 9"
+    },
+    "148": {
+        "answer": 469,
+        "equation": "628 - 159"
+    },
+    "149": {
+        "answer": 72,
+        "equation": "576 / 8"
+    },
+    "150": {
+        "answer": 3,
+        "equation": "16 - 13"
+    },
+    "151": {
+        "answer": 12,
+        "equation": "( 14 - 8 ) * 2"
+    },
+    "152": {
+        "answer": 174080,
+        "equation": "( 544 * 10 ) * 32"
+    },
+    "153": {
+        "answer": 450,
+        "equation": "10 * 45"
+    },
+    "154": {
+        "answer": 34,
+        "equation": "19 - ( 4 - 19 )"
+    },
+    "155": {
+        "answer": 2,
+        "equation": "6 - 4"
+    },
+    "156": {
+        "answer": 5,
+        "equation": "10 / 2"
+    },
+    "157": {
+        "answer": 98,
+        "equation": "( 80 + 54 ) - 36"
+    },
+    "158": {
+        "answer": 21,
+        "equation": "37 - 16"
+    },
+    "159": {
+        "answer": 638,
+        "equation": "( 31 + 27 ) * 11"
+    },
+    "160": {
+        "answer": 29,
+        "equation": "58 / 2"
+    },
+    "161": {
+        "answer": 16,
+        "equation": "32 / 2"
+    },
+    "162": {
+        "answer": 4,
+        "equation": "( 7 + 12 ) - 15"
+    },
+    "163": {
+        "answer": 13,
+        "equation": "28 - 15"
+    },
+    "164": {
+        "answer": 5,
+        "equation": "( 14 - 6 ) - 3"
+    },
+    "165": {
+        "answer": 37,
+        "equation": "115 - 78"
+    },
+    "166": {
+        "answer": 2,
+        "equation": "( 13 + 3 ) / 8"
+    },
+    "167": {
+        "answer": 95,
+        "equation": "( 14 * 6 ) + 11"
+    },
+    "168": {
+        "answer": 2,
+        "equation": "6 / 3"
+    },
+    "169": {
+        "answer": 21,
+        "equation": "( 33 + 51 ) - 63"
+    },
+    "170": {
+        "answer": 58,
+        "equation": "67 - 9"
+    },
+    "171": {
+        "answer": 1538832,
+        "equation": "893835 + 644997"
+    },
+    "172": {
+        "answer": 6,
+        "equation": "30 / 5"
+    },
+    "173": {
+        "answer": 858,
+        "equation": "26 * 33"
+    },
+    "174": {
+        "answer": 8,
+        "equation": "17 - 9"
+    },
+    "175": {
+        "answer": 5,
+        "equation": "8 - 3"
+    },
+    "176": {
+        "answer": 18,
+        "equation": "20 - 2"
+    },
+    "177": {
+        "answer": 8,
+        "equation": "12 - 4"
+    },
+    "178": {
+        "answer": 8722,
+        "equation": "98 * 89"
+    },
+    "179": {
+        "answer": 14,
+        "equation": "( 6 + 3 ) + 5"
+    },
+    "180": {
+        "answer": 13,
+        "equation": "18 - 5"
+    },
+    "181": {
+        "answer": 229,
+        "equation": "( 13 * 17 ) + 8"
+    },
+    "182": {
+        "answer": 29,
+        "equation": "83 - 54"
+    },
+    "183": {
+        "answer": 61,
+        "equation": "330 - 269"
+    },
+    "184": {
+        "answer": 420,
+        "equation": "14 * 30"
+    },
+    "185": {
+        "answer": 1,
+        "equation": "15 - 14"
+    },
+    "186": {
+        "answer": 42,
+        "equation": "106 - 64"
+    },
+    "187": {
+        "answer": 1,
+        "equation": "( 15 - 10 ) / 5"
+    },
+    "188": {
+        "answer": 56,
+        "equation": "78 - 22"
+    },
+    "189": {
+        "answer": 21,
+        "equation": "42 / 2"
+    },
+    "190": {
+        "answer": 4,
+        "equation": "6 - 2"
+    },
+    "191": {
+        "answer": 76,
+        "equation": "154 - 78"
+    },
+    "192": {
+        "answer": 10,
+        "equation": "20 / 2"
+    },
+    "193": {
+        "answer": 2,
+        "equation": "14 - ( 4 * 3 )"
+    },
+    "194": {
+        "answer": 21,
+        "equation": "40 - 19"
+    },
+    "195": {
+        "answer": 2,
+        "equation": "5 - 3"
+    },
+    "196": {
+        "answer": 28,
+        "equation": "4 * 7"
+    },
+    "197": {
+        "answer": 7,
+        "equation": "18 - 11"
+    },
+    "198": {
+        "answer": 2,
+        "equation": "30 - 28"
+    },
+    "199": {
+        "answer": 28,
+        "equation": "2 * 14"
+    },
+    "200": {
+        "answer": 40,
+        "equation": "360 / 9"
+    },
+    "201": {
+        "answer": 83,
+        "equation": "4 + 79"
+    },
+    "202": {
+        "answer": 6,
+        "equation": "60 / 10"
+    },
+    "203": {
+        "answer": 12518,
+        "equation": "22 * 569"
+    },
+    "204": {
+        "answer": 127,
+        "equation": "86 - ( 45 - 86 )"
+    },
+    "205": {
+        "answer": 1,
+        "equation": "6 - ( 2 + 3 )"
+    },
+    "206": {
+        "answer": 460,
+        "equation": "46 * 10"
+    },
+    "207": {
+        "answer": 11,
+        "equation": "8 + 3"
+    },
+    "208": {
+        "answer": 1,
+        "equation": "5 - 4"
+    },
+    "209": {
+        "answer": 3,
+        "equation": "( 2 + 5 ) - 4"
+    },
+    "210": {
+        "answer": 7,
+        "equation": "30 - 23"
+    },
+    "211": {
+        "answer": 47,
+        "equation": "78 - 31"
+    },
+    "212": {
+        "answer": 350,
+        "equation": "25 * 14"
+    },
+    "213": {
+        "answer": 68,
+        "equation": "17 * 4"
+    },
+    "214": {
+        "answer": 19,
+        "equation": "21 - 2"
+    },
+    "215": {
+        "answer": 22,
+        "equation": "66 / 3"
+    },
+    "216": {
+        "answer": 12,
+        "equation": "14 - 2"
+    },
+    "217": {
+        "answer": 17,
+        "equation": "51 / 3"
+    },
+    "218": {
+        "answer": 72,
+        "equation": "( 8 + 10 ) * 4"
+    },
+    "219": {
+        "answer": 2,
+        "equation": "14 / 7"
+    },
+    "220": {
+        "answer": 184,
+        "equation": "( 144 + 111 ) - 71"
+    },
+    "221": {
+        "answer": 1,
+        "equation": "12 - 11"
+    },
+    "222": {
+        "answer": 1092,
+        "equation": "78 * ( 186 - 172 )"
+    },
+    "223": {
+        "answer": 15,
+        "equation": "19 - 4"
+    },
+    "224": {
+        "answer": 14,
+        "equation": "28 / 2"
+    },
+    "225": {
+        "answer": 3,
+        "equation": "9 / 3"
+    },
+    "226": {
+        "answer": 23,
+        "equation": "41 - 18"
+    },
+    "227": {
+        "answer": 14,
+        "equation": "28 / 2"
+    },
+    "228": {
+        "answer": 5,
+        "equation": "( 14 + 21 ) / 7"
+    },
+    "229": {
+        "answer": 450,
+        "equation": "31 + 419"
+    },
+    "230": {
+        "answer": 2,
+        "equation": "4 / 2"
+    },
+    "231": {
+        "answer": 16,
+        "equation": "30 - 14"
+    },
+    "232": {
+        "answer": 280,
+        "equation": "8 * 35"
+    },
+    "233": {
+        "answer": 8,
+        "equation": "16 - 8"
+    },
+    "234": {
+        "answer": 2,
+        "equation": "16 / 8"
+    },
+    "235": {
+        "answer": 1,
+        "equation": "4 - 3"
+    },
+    "236": {
+        "answer": 183,
+        "equation": "253 - 70"
+    },
+    "237": {
+        "answer": 482,
+        "equation": "397 + 85"
+    },
+    "238": {
+        "answer": 8,
+        "equation": "2 + 6"
+    },
+    "239": {
+        "answer": 3,
+        "equation": "9 / 3"
+    },
+    "240": {
+        "answer": 69,
+        "equation": "( 51 + 22 ) - 4"
+    },
+    "241": {
+        "answer": 20,
+        "equation": "300 - 280"
+    },
+    "242": {
+        "answer": 21,
+        "equation": "81 - 60"
+    },
+    "243": {
+        "answer": 90,
+        "equation": "52 + 38"
+    },
+    "244": {
+        "answer": 10,
+        "equation": "13 - 3"
+    },
+    "245": {
+        "answer": 11,
+        "equation": "19 - 8"
+    },
+    "246": {
+        "answer": 174,
+        "equation": "( 12 * 14 ) + 6"
+    },
+    "247": {
+        "answer": 84,
+        "equation": "7 * 12"
+    },
+    "248": {
+        "answer": 640,
+        "equation": "32 * 20"
+    },
+    "249": {
+        "answer": 26,
+        "equation": "( 72 + 32 ) - 78"
+    },
+    "250": {
+        "answer": 14,
+        "equation": "2 * 7"
+    },
+    "251": {
+        "answer": 27,
+        "equation": "( 3 - 2 ) + 26"
+    },
+    "252": {
+        "answer": 65,
+        "equation": "144 - 79"
+    },
+    "253": {
+        "answer": 6840,
+        "equation": "( 19 * 18 ) * 20"
+    },
+    "254": {
+        "answer": 23,
+        "equation": "( 10 + 10 ) + 3"
+    },
+    "255": {
+        "answer": 1542,
+        "equation": "( 700 + 700 ) + 142"
+    },
+    "256": {
+        "answer": 9,
+        "equation": "14 - 5"
+    },
+    "257": {
+        "answer": 14,
+        "equation": "2 + 12"
+    },
+    "258": {
+        "answer": 1,
+        "equation": "11 - 10"
+    },
+    "259": {
+        "answer": 40,
+        "equation": "8 + 32"
+    },
+    "260": {
+        "answer": 183,
+        "equation": "91 + 92"
+    },
+    "261": {
+        "answer": 127,
+        "equation": "242 - 115"
+    },
+    "262": {
+        "answer": 10,
+        "equation": "230 / 23"
+    },
+    "263": {
+        "answer": 26,
+        "equation": "89 - 63"
+    },
+    "264": {
+        "answer": 1,
+        "equation": "3 - 2"
+    },
+    "265": {
+        "answer": 3,
+        "equation": "7 - 4"
+    },
+    "266": {
+        "answer": 997,
+        "equation": "( 43 * 23 ) + 8"
+    },
+    "267": {
+        "answer": 11,
+        "equation": "( 108 - 35 ) - 62"
+    },
+    "268": {
+        "answer": 29,
+        "equation": "12 + 17"
+    },
+    "269": {
+        "answer": 27,
+        "equation": "81 / 3"
+    },
+    "270": {
+        "answer": 91,
+        "equation": "495 - 404"
+    },
+    "271": {
+        "answer": 7,
+        "equation": "( 8 + 4 ) - 5"
+    },
+    "272": {
+        "answer": 5,
+        "equation": "45 / 9"
+    },
+    "273": {
+        "answer": 48,
+        "equation": "4 * 12"
+    },
+    "274": {
+        "answer": 2,
+        "equation": "114 / 57"
+    },
+    "275": {
+        "answer": 18,
+        "equation": "18 / ( 10 - 9 )"
+    },
+    "276": {
+        "answer": 1,
+        "equation": "( 7 - 2 ) - 4"
+    },
+    "277": {
+        "answer": 217,
+        "equation": "145 + 72"
+    },
+    "278": {
+        "answer": 5,
+        "equation": "10 / 2"
+    },
+    "279": {
+        "answer": 26180,
+        "equation": "140 * 187"
+    },
+    "280": {
+        "answer": 3,
+        "equation": "18 / 6"
+    },
+    "281": {
+        "answer": 211,
+        "equation": "( 9 + 62 ) + 140"
+    },
+    "282": {
+        "answer": 37,
+        "equation": "111 / 3"
+    },
+    "283": {
+        "answer": 34,
+        "equation": "13 + 21"
+    },
+    "284": {
+        "answer": 6,
+        "equation": "( 9 + 7 ) - 10"
+    },
+    "285": {
+        "answer": 30,
+        "equation": "( 22 - 5 ) + 13"
+    },
+    "286": {
+        "answer": 20,
+        "equation": "15 + 5"
+    },
+    "287": {
+        "answer": 410,
+        "equation": "571 - 161"
+    },
+    "288": {
+        "answer": 2,
+        "equation": "9 - 7"
+    },
+    "289": {
+        "answer": 2,
+        "equation": "8 - 6"
+    },
+    "290": {
+        "answer": 745,
+        "equation": "557 + 188"
+    },
+    "291": {
+        "answer": 131,
+        "equation": "197 - 66"
+    },
+    "292": {
+        "answer": 6,
+        "equation": "19 - 13"
+    },
+    "293": {
+        "answer": 4,
+        "equation": "27 - 23"
+    },
+    "294": {
+        "answer": 3,
+        "equation": "6 - 3"
+    },
+    "295": {
+        "answer": 37,
+        "equation": "48 - 11"
+    },
+    "296": {
+        "answer": 4,
+        "equation": "6 - 2"
+    },
+    "297": {
+        "answer": 2,
+        "equation": "12 / 6"
+    },
+    "298": {
+        "answer": 654,
+        "equation": "676 - 22"
+    },
+    "299": {
+        "answer": 34,
+        "equation": "( 17 + 15 ) + 2"
+    },
+    "300": {
+        "answer": 45,
+        "equation": "( 25 + 18 ) + 2"
+    },
+    "301": {
+        "answer": 28,
+        "equation": "288 - 260"
+    },
+    "302": {
+        "answer": 3,
+        "equation": "( 14 - 5 ) - 6"
+    },
+    "303": {
+        "answer": 25,
+        "equation": "13 + 12"
+    },
+    "304": {
+        "answer": 1,
+        "equation": "12 - 11"
+    },
+    "305": {
+        "answer": 14,
+        "equation": "5 + 9"
+    },
+    "306": {
+        "answer": 7,
+        "equation": "19 - 12"
+    },
+    "307": {
+        "answer": 5,
+        "equation": "19 - 14"
+    },
+    "308": {
+        "answer": 1,
+        "equation": "( 301 - 157 ) / 144"
+    },
+    "309": {
+        "answer": 2184,
+        "equation": "56 * 39"
+    },
+    "310": {
+        "answer": 20,
+        "equation": "( 10 + 3 ) + 7"
+    },
+    "311": {
+        "answer": 66,
+        "equation": "31 + 35"
+    },
+    "312": {
+        "answer": 89,
+        "equation": "( 100 + 148 ) - 159"
+    },
+    "313": {
+        "answer": 5,
+        "equation": "( 11 - 3 ) - 3"
+    },
+    "314": {
+        "answer": 22,
+        "equation": "81 - 59"
+    },
+    "315": {
+        "answer": 8,
+        "equation": "16 / 2"
+    },
+    "316": {
+        "answer": 18,
+        "equation": "90 / 5"
+    },
+    "317": {
+        "answer": 1,
+        "equation": "6 - 5"
+    },
+    "318": {
+        "answer": 14,
+        "equation": "18 - 4"
+    },
+    "319": {
+        "answer": 3,
+        "equation": "( 4 + 2 ) - 3"
+    },
+    "320": {
+        "answer": 4,
+        "equation": "24 / 6"
+    },
+    "321": {
+        "answer": 9,
+        "equation": "15 - 6"
+    },
+    "322": {
+        "answer": 78,
+        "equation": "167 - 89"
+    },
+    "323": {
+        "answer": 13,
+        "equation": "( 3 + 4 ) + 6"
+    },
+    "324": {
+        "answer": 35,
+        "equation": "44 - 9"
+    },
+    "325": {
+        "answer": 41,
+        "equation": "( 6 + 16 ) + 19"
+    },
+    "326": {
+        "answer": 19,
+        "equation": "38 / 2"
+    },
+    "327": {
+        "answer": 13,
+        "equation": "20 - 7"
+    },
+    "328": {
+        "answer": 26,
+        "equation": "78 / 3"
+    },
+    "329": {
+        "answer": 63,
+        "equation": "154 - 91"
+    },
+    "330": {
+        "answer": 11,
+        "equation": "71 - 60"
+    },
+    "331": {
+        "answer": 4,
+        "equation": "( 79 - 24 ) - 51"
+    },
+    "332": {
+        "answer": 32,
+        "equation": "53 - 21"
+    },
+    "333": {
+        "answer": 332,
+        "equation": "664 / 2"
+    },
+    "334": {
+        "answer": 25,
+        "equation": "( 23 + 4 ) - 2"
+    },
+    "335": {
+        "answer": 16,
+        "equation": "10 + 6"
+    },
+    "336": {
+        "answer": 1,
+        "equation": "7 - ( 2 + 4 )"
+    },
+    "337": {
+        "answer": 807,
+        "equation": "841 - 34"
+    },
+    "338": {
+        "answer": 18,
+        "equation": "43 - 25"
+    },
+    "339": {
+        "answer": 3,
+        "equation": "24 / 8"
+    },
+    "340": {
+        "answer": 4,
+        "equation": "53 - 49"
+    },
+    "341": {
+        "answer": 2,
+        "equation": "5 - 3"
+    },
+    "342": {
+        "answer": 2,
+        "equation": "4 / 2"
+    },
+    "343": {
+        "answer": 1,
+        "equation": "4 - 3"
+    },
+    "344": {
+        "answer": 43,
+        "equation": "80 - 37"
+    },
+    "345": {
+        "answer": 4,
+        "equation": "8 - 4"
+    },
+    "346": {
+        "answer": 17,
+        "equation": "5 + 12"
+    },
+    "347": {
+        "answer": 158,
+        "equation": "192 - 34"
+    },
+    "348": {
+        "answer": 1081,
+        "equation": "527 + 554"
+    },
+    "349": {
+        "answer": 16,
+        "equation": "( 22 - 36 ) + 30"
+    },
+    "350": {
+        "answer": 13,
+        "equation": "3 + 10"
+    },
+    "351": {
+        "answer": 23,
+        "equation": "13 - ( 3 - 13 )"
+    },
+    "352": {
+        "answer": 5,
+        "equation": "9 - 4"
+    },
+    "353": {
+        "answer": 117,
+        "equation": "( 9 * 14 ) - 9"
+    },
+    "354": {
+        "answer": 1848,
+        "equation": "66 * 28"
+    },
+    "355": {
+        "answer": 26,
+        "equation": "12 + 14"
+    },
+    "356": {
+        "answer": 80,
+        "equation": "8 * 10"
+    },
+    "357": {
+        "answer": 12,
+        "equation": "24 - ( 3 + 9 )"
+    },
+    "358": {
+        "answer": 11,
+        "equation": "13 - 2"
+    },
+    "359": {
+        "answer": 47,
+        "equation": "94 - 47"
+    },
+    "360": {
+        "answer": 27,
+        "equation": "9 + 18"
+    },
+    "361": {
+        "answer": 7,
+        "equation": "51 - 44"
+    },
+    "362": {
+        "answer": 4,
+        "equation": "16 / 4"
+    },
+    "363": {
+        "answer": 1,
+        "equation": "8 - 7"
+    },
+    "364": {
+        "answer": 14,
+        "equation": "16 - 2"
+    },
+    "365": {
+        "answer": 2,
+        "equation": "5 - 3"
+    },
+    "366": {
+        "answer": 146,
+        "equation": "( 44 + 44 ) + 58"
+    },
+    "367": {
+        "answer": 92,
+        "equation": "460 / 5"
+    },
+    "368": {
+        "answer": 314,
+        "equation": "337 - 23"
+    },
+    "369": {
+        "answer": 7,
+        "equation": "4 + 3"
+    },
+    "370": {
+        "answer": 14,
+        "equation": "( 17 - 10 ) + 7"
+    },
+    "371": {
+        "answer": 2,
+        "equation": "9 - 7"
+    },
+    "372": {
+        "answer": 337,
+        "equation": "739 - 402"
+    },
+    "373": {
+        "answer": 3,
+        "equation": "( 2 + 4 ) - 3"
+    },
+    "374": {
+        "answer": 22,
+        "equation": "6 + 16"
+    },
+    "375": {
+        "answer": 20,
+        "equation": "33 - 13"
+    },
+    "376": {
+        "answer": 152,
+        "equation": "76 * 2"
+    },
+    "377": {
+        "answer": 6,
+        "equation": "145 - 139"
+    },
+    "378": {
+        "answer": 1,
+        "equation": "8 - 7"
+    },
+    "379": {
+        "answer": 3,
+        "equation": "15 - 12"
+    },
+    "380": {
+        "answer": 3,
+        "equation": "5 - 2"
+    },
+    "381": {
+        "answer": 15,
+        "equation": "450 / 30"
+    },
+    "382": {
+        "answer": 1,
+        "equation": "20 - 19"
+    },
+    "383": {
+        "answer": 83,
+        "equation": "249 / 3"
+    },
+    "384": {
+        "answer": 70,
+        "equation": "406 - 336"
+    },
+    "385": {
+        "answer": 6,
+        "equation": "120 / 20"
+    },
+    "386": {
+        "answer": 2,
+        "equation": "5 - ( 14 - 11 )"
+    },
+    "387": {
+        "answer": 52,
+        "equation": "26 * 2"
+    },
+    "388": {
+        "answer": 3,
+        "equation": "21 / 7"
+    },
+    "389": {
+        "answer": 8,
+        "equation": "10 - 2"
+    },
+    "390": {
+        "answer": 64,
+        "equation": "256 / 4"
+    },
+    "391": {
+        "answer": 6,
+        "equation": "( 2 + 9 ) - 5"
+    },
+    "392": {
+        "answer": 37,
+        "equation": "19 + 18"
+    },
+    "393": {
+        "answer": 13,
+        "equation": "42 - 29"
+    },
+    "394": {
+        "answer": 9,
+        "equation": "36 / 4"
+    },
+    "395": {
+        "answer": 3,
+        "equation": "39 / 13"
+    },
+    "396": {
+        "answer": 1346,
+        "equation": "( 706 + 222 ) + 418"
+    },
+    "397": {
+        "answer": 32,
+        "equation": "16 * 2"
+    },
+    "398": {
+        "answer": 10,
+        "equation": "18 - 8"
+    },
+    "399": {
+        "answer": 9,
+        "equation": "( 35 - 13 ) - 13"
+    },
+    "400": {
+        "answer": 4,
+        "equation": "( 4 + 8 ) / 3"
+    },
+    "401": {
+        "answer": 8,
+        "equation": "19 - 11"
+    },
+    "402": {
+        "answer": 3,
+        "equation": "8 - 5"
+    },
+    "403": {
+        "answer": 14,
+        "equation": "420 / 30"
+    },
+    "404": {
+        "answer": 11,
+        "equation": "16 - 5"
+    },
+    "405": {
+        "answer": 9,
+        "equation": "32 - 23"
+    },
+    "406": {
+        "answer": 1,
+        "equation": "( 13 - 6 ) - 6"
+    },
+    "407": {
+        "answer": 8,
+        "equation": "18 - 10"
+    },
+    "408": {
+        "answer": 101,
+        "equation": "132 - 31"
+    },
+    "409": {
+        "answer": 6,
+        "equation": "11 - 5"
+    },
+    "410": {
+        "answer": 455,
+        "equation": "154 + 301"
+    },
+    "411": {
+        "answer": 33,
+        "equation": "15 + 18"
+    },
+    "412": {
+        "answer": 7,
+        "equation": "9 - 2"
+    },
+    "413": {
+        "answer": 98,
+        "equation": "( 36 + 13 ) + 49"
+    },
+    "414": {
+        "answer": 8,
+        "equation": "16 - 8"
+    },
+    "415": {
+        "answer": 17,
+        "equation": "28 - 11"
+    },
+    "416": {
+        "answer": 3,
+        "equation": "15 - 12"
+    },
+    "417": {
+        "answer": 45,
+        "equation": "116 - 71"
+    },
+    "418": {
+        "answer": 9,
+        "equation": "5 + 4"
+    },
+    "419": {
+        "answer": 4,
+        "equation": "104 / 26"
+    },
+    "420": {
+        "answer": 8,
+        "equation": "20 - 12"
+    },
+    "421": {
+        "answer": 1,
+        "equation": "12 - 11"
+    },
+    "422": {
+        "answer": 1,
+        "equation": "8 - 7"
+    },
+    "423": {
+        "answer": 10,
+        "equation": "4950 / 495"
+    },
+    "424": {
+        "answer": 394,
+        "equation": "457 - 63"
+    },
+    "425": {
+        "answer": 5590,
+        "equation": "( 51 - 8 ) * 130"
+    },
+    "426": {
+        "answer": 2,
+        "equation": "( 3 + 4 ) - 5"
+    },
+    "427": {
+        "answer": 15,
+        "equation": "30 / 2"
+    },
+    "428": {
+        "answer": 18,
+        "equation": "10 + 8"
+    },
+    "429": {
+        "answer": 111,
+        "equation": "555 / 5"
+    },
+    "430": {
+        "answer": 7,
+        "equation": "22 - 15"
+    },
+    "431": {
+        "answer": 6,
+        "equation": "9 - 3"
+    },
+    "432": {
+        "answer": 93,
+        "equation": "93 / ( 107 - 106 )"
+    },
+    "433": {
+        "answer": 2,
+        "equation": "10 - 8"
+    },
+    "434": {
+        "answer": 51,
+        "equation": "( 33 + 4 ) + 14"
+    },
+    "435": {
+        "answer": 4,
+        "equation": "28 / 7"
+    },
+    "436": {
+        "answer": 3,
+        "equation": "36 / 12"
+    },
+    "437": {
+        "answer": 14,
+        "equation": "8 + 6"
+    },
+    "438": {
+        "answer": 8,
+        "equation": "6 + 2"
+    },
+    "439": {
+        "answer": 5,
+        "equation": "7 - 2"
+    },
+    "440": {
+        "answer": 5,
+        "equation": "7 - 2"
+    },
+    "441": {
+        "answer": 141,
+        "equation": "88 + 53"
+    },
+    "442": {
+        "answer": 587,
+        "equation": "52 + 535"
+    },
+    "443": {
+        "answer": 35624,
+        "equation": "244 * 146"
+    },
+    "444": {
+        "answer": 2,
+        "equation": "( 17 - 7 ) - 8"
+    },
+    "445": {
+        "answer": 8,
+        "equation": "14 - 6"
+    },
+    "446": {
+        "answer": 1891,
+        "equation": "31 * 61"
+    },
+    "447": {
+        "answer": 5,
+        "equation": "10 / 2"
+    },
+    "448": {
+        "answer": 1,
+        "equation": "3 - 2"
+    },
+    "449": {
+        "answer": 17017,
+        "equation": "221 * 77"
+    },
+    "450": {
+        "answer": 58,
+        "equation": "( 38 + 36 ) - 16"
+    },
+    "451": {
+        "answer": 3,
+        "equation": "54 / 18"
+    },
+    "452": {
+        "answer": 5,
+        "equation": "25 / 5"
+    },
+    "453": {
+        "answer": 3,
+        "equation": "8 - 5"
+    },
+    "454": {
+        "answer": 4,
+        "equation": "19 - 15"
+    },
+    "455": {
+        "answer": 1,
+        "equation": "7 - 6"
+    },
+    "456": {
+        "answer": 10,
+        "equation": "4 + 6"
+    },
+    "457": {
+        "answer": 21,
+        "equation": "28 - 7"
+    },
+    "458": {
+        "answer": 4,
+        "equation": "8 / 2"
+    },
+    "459": {
+        "answer": 71,
+        "equation": "( 41 + 26 ) + 4"
+    },
+    "460": {
+        "answer": 34,
+        "equation": "36 - 2"
+    },
+    "461": {
+        "answer": 58,
+        "equation": "19 + 39"
+    },
+    "462": {
+        "answer": 3,
+        "equation": "( 12 - 2 ) - 7"
+    },
+    "463": {
+        "answer": 2,
+        "equation": "17 - 15"
+    },
+    "464": {
+        "answer": 60,
+        "equation": "63 - 3"
+    },
+    "465": {
+        "answer": 9,
+        "equation": "16 - 7"
+    },
+    "466": {
+        "answer": 3,
+        "equation": "46 - 43"
+    },
+    "467": {
+        "answer": 756,
+        "equation": "382 + 374"
+    },
+    "468": {
+        "answer": 31,
+        "equation": "67 - 36"
+    },
+    "469": {
+        "answer": 3,
+        "equation": "9 - ( 3 * 2 )"
+    },
+    "470": {
+        "answer": 30,
+        "equation": "39 - 9"
+    },
+    "471": {
+        "answer": 17,
+        "equation": "19 - 2"
+    },
+    "472": {
+        "answer": 112,
+        "equation": "896 / 8"
+    },
+    "473": {
+        "answer": 3,
+        "equation": "15 / 5"
+    },
+    "474": {
+        "answer": 140,
+        "equation": "153 - 13"
+    },
+    "475": {
+        "answer": 102,
+        "equation": "612 / 6"
+    },
+    "476": {
+        "answer": 1,
+        "equation": "10 / ( 4 + 6 )"
+    },
+    "477": {
+        "answer": 89,
+        "equation": "178 / 2"
+    },
+    "478": {
+        "answer": 6,
+        "equation": "54 - 48"
+    },
+    "479": {
+        "answer": 1080,
+        "equation": "24 * 45"
+    },
+    "480": {
+        "answer": 66,
+        "equation": "35 + ( 35 - 4 )"
+    },
+    "481": {
+        "answer": 25740,
+        "equation": "165 * 156"
+    },
+    "482": {
+        "answer": 60,
+        "equation": "12 * 5"
+    },
+    "483": {
+        "answer": 109044,
+        "equation": "( 53 + 181 ) * 466"
+    },
+    "484": {
+        "answer": 322,
+        "equation": "412 - 90"
+    },
+    "485": {
+        "answer": 333,
+        "equation": "569 - 236"
+    },
+    "486": {
+        "answer": 390,
+        "equation": "65 * 6"
+    },
+    "487": {
+        "answer": 68,
+        "equation": "( 6 * 14 ) - 16"
+    },
+    "488": {
+        "answer": 9,
+        "equation": "153 / 17"
+    },
+    "489": {
+        "answer": 405,
+        "equation": "45 * 9"
+    },
+    "490": {
+        "answer": 25,
+        "equation": "54 - 29"
+    },
+    "491": {
+        "answer": 16,
+        "equation": "20 - 4"
+    },
+    "492": {
+        "answer": 8,
+        "equation": "15 - 7"
+    },
+    "493": {
+        "answer": 324775,
+        "equation": "( 491 - 216 ) * 1181"
+    },
+    "494": {
+        "answer": 92,
+        "equation": "106 - 14"
+    },
+    "495": {
+        "answer": 4,
+        "equation": "17 - 13"
+    },
+    "496": {
+        "answer": 23,
+        "equation": "42 - 19"
+    },
+    "497": {
+        "answer": 12,
+        "equation": "28 - 16"
+    },
+    "498": {
+        "answer": 1,
+        "equation": "4 - 3"
+    },
+    "499": {
+        "answer": 9,
+        "equation": "14 - 5"
+    },
+    "500": {
+        "answer": 12,
+        "equation": "180 / 15"
+    },
+    "501": {
+        "answer": 2,
+        "equation": "( 10 - 3 ) - 5"
+    },
+    "502": {
+        "answer": 70,
+        "equation": "35 * ( 4 / 2 )"
+    },
+    "503": {
+        "answer": 5700,
+        "equation": "( 19 * 15 ) * 20"
+    },
+    "504": {
+        "answer": 17,
+        "equation": "19 - 2"
+    },
+    "505": {
+        "answer": 52,
+        "equation": "34 + 18"
+    },
+    "506": {
+        "answer": 57,
+        "equation": "705 - ( 191 + 457 )"
+    },
+    "507": {
+        "answer": 42,
+        "equation": "108 - 66"
+    },
+    "508": {
+        "answer": 19,
+        "equation": "30 - 11"
+    },
+    "509": {
+        "answer": 20,
+        "equation": "5 + 15"
+    },
+    "510": {
+        "answer": 22,
+        "equation": "37 - 15"
+    },
+    "511": {
+        "answer": 2,
+        "equation": "10 / 5"
+    },
+    "512": {
+        "answer": 367,
+        "equation": "521 - 154"
+    },
+    "513": {
+        "answer": 20,
+        "equation": "( 38 + 38 ) - 56"
+    },
+    "514": {
+        "answer": 16,
+        "equation": "43 - 27"
+    },
+    "515": {
+        "answer": 14,
+        "equation": "10 + 4"
+    },
+    "516": {
+        "answer": 42,
+        "equation": "28 * ( 24 / 16 )"
+    },
+    "517": {
+        "answer": 5,
+        "equation": "( 3 + 6 ) - 4"
+    },
+    "518": {
+        "answer": 4,
+        "equation": "( 114 - 50 ) - 60"
+    },
+    "519": {
+        "answer": 20,
+        "equation": "120 / 6"
+    },
+    "520": {
+        "answer": 6,
+        "equation": "14 - 8"
+    },
+    "521": {
+        "answer": 1541,
+        "equation": "( 73 + 724 ) + 744"
+    },
+    "522": {
+        "answer": 19,
+        "equation": "11 + 8"
+    },
+    "523": {
+        "answer": 1,
+        "equation": "( 33 - 24 ) / 9"
+    },
+    "524": {
+        "answer": 17,
+        "equation": "34 / 2"
+    },
+    "525": {
+        "answer": 5,
+        "equation": "8 - 3"
+    },
+    "526": {
+        "answer": 2,
+        "equation": "38 / 19"
+    },
+    "527": {
+        "answer": 3,
+        "equation": "9 / 3"
+    },
+    "528": {
+        "answer": 14,
+        "equation": "154 / 11"
+    },
+    "529": {
+        "answer": 1,
+        "equation": "10 - ( 6 + 3 )"
+    },
+    "530": {
+        "answer": 10,
+        "equation": "7 + 3"
+    },
+    "531": {
+        "answer": 3,
+        "equation": "11 - 8"
+    },
+    "532": {
+        "answer": 149,
+        "equation": "( 11 * 15 ) - 16"
+    },
+    "533": {
+        "answer": 1,
+        "equation": "17 - 16"
+    },
+    "534": {
+        "answer": 69,
+        "equation": "( 67 + 60 ) - 58"
+    },
+    "535": {
+        "answer": 168,
+        "equation": "( 573 - 195 ) - 210"
+    },
+    "536": {
+        "answer": 481,
+        "equation": "492 - 11"
+    },
+    "537": {
+        "answer": 14,
+        "equation": "( 49 - 59 ) + 24"
+    },
+    "538": {
+        "answer": 7,
+        "equation": "19 - 12"
+    },
+    "539": {
+        "answer": 33,
+        "equation": "21 + 12"
+    },
+    "540": {
+        "answer": 1463,
+        "equation": "( 15 + 62 ) * 19"
+    },
+    "541": {
+        "answer": 128,
+        "equation": "27 + 101"
+    },
+    "542": {
+        "answer": 5,
+        "equation": "3 + 2"
+    },
+    "543": {
+        "answer": 67,
+        "equation": "53 + 14"
+    },
+    "544": {
+        "answer": 68,
+        "equation": "91 - 23"
+    },
+    "545": {
+        "answer": 1,
+        "equation": "36 - 35"
+    },
+    "546": {
+        "answer": 1,
+        "equation": "4 - 3"
+    },
+    "547": {
+        "answer": 1,
+        "equation": "( 9 - 2 ) - 6"
+    },
+    "548": {
+        "answer": 31,
+        "equation": "95 - 64"
+    },
+    "549": {
+        "answer": 3,
+        "equation": "18 / 6"
+    },
+    "550": {
+        "answer": 10,
+        "equation": "3 + 7"
+    },
+    "551": {
+        "answer": 5,
+        "equation": "( 41 - 6 ) / 7"
+    },
+    "552": {
+        "answer": 15,
+        "equation": "155 - 140"
+    },
+    "553": {
+        "answer": 8,
+        "equation": "10 - 2"
+    },
+    "554": {
+        "answer": 6,
+        "equation": "28 - 22"
+    },
+    "555": {
+        "answer": 8,
+        "equation": "8"
+    },
+    "556": {
+        "answer": 1,
+        "equation": "37 - 36"
+    },
+    "557": {
+        "answer": 7,
+        "equation": "21 - ( 5 + 9 )"
+    },
+    "558": {
+        "answer": 41,
+        "equation": "54 - 13"
+    },
+    "559": {
+        "answer": 150780,
+        "equation": "819058 - 668278"
+    },
+    "560": {
+        "answer": 54,
+        "equation": "79 - ( 14 + 11 )"
+    },
+    "561": {
+        "answer": 16,
+        "equation": "( 6 + 7 ) + 3"
+    },
+    "562": {
+        "answer": 4,
+        "equation": "6 - 2"
+    },
+    "563": {
+        "answer": 1145,
+        "equation": "635 + 510"
+    },
+    "564": {
+        "answer": 1,
+        "equation": "12 - 11"
+    },
+    "565": {
+        "answer": 2,
+        "equation": "16 - 14"
+    },
+    "566": {
+        "answer": 2,
+        "equation": "28 / 14"
+    },
+    "567": {
+        "answer": 4,
+        "equation": "10 - ( 2 + 4 )"
+    },
+    "568": {
+        "answer": 1,
+        "equation": "13 - 12"
+    },
+    "569": {
+        "answer": 20,
+        "equation": "9 + 11"
+    },
+    "570": {
+        "answer": 4,
+        "equation": "32 / 8"
+    },
+    "571": {
+        "answer": 365,
+        "equation": "5 * 73"
+    },
+    "572": {
+        "answer": 27,
+        "equation": "( 134 - 39 ) - 68"
+    },
+    "573": {
+        "answer": 19,
+        "equation": "34 - 15"
+    },
+    "574": {
+        "answer": 11210,
+        "equation": "95 * 118"
+    },
+    "575": {
+        "answer": 720,
+        "equation": "30 * 24"
+    },
+    "576": {
+        "answer": 4,
+        "equation": "12 / 3"
+    },
+    "577": {
+        "answer": 26,
+        "equation": "( 15 + 18 ) - 7"
+    },
+    "578": {
+        "answer": 82,
+        "equation": "133 - 51"
+    },
+    "579": {
+        "answer": 9,
+        "equation": "18 / 2"
+    },
+    "580": {
+        "answer": 90,
+        "equation": "128 - 38"
+    },
+    "581": {
+        "answer": 4,
+        "equation": "48 - 44"
+    },
+    "582": {
+        "answer": 7,
+        "equation": "5 + 2"
+    },
+    "583": {
+        "answer": 13,
+        "equation": "( 8 + 8 ) - 3"
+    },
+    "584": {
+        "answer": 4,
+        "equation": "7 - 3"
+    },
+    "585": {
+        "answer": 36,
+        "equation": "92 - 56"
+    },
+    "586": {
+        "answer": 30,
+        "equation": "14 + 16"
+    },
+    "587": {
+        "answer": 5,
+        "equation": "( 16 - 21 ) + 10"
+    },
+    "588": {
+        "answer": 67,
+        "equation": "( 62 - 144 ) + 149"
+    },
+    "589": {
+        "answer": 606,
+        "equation": "315 + 291"
+    },
+    "590": {
+        "answer": 13,
+        "equation": "6 + 7"
+    },
+    "591": {
+        "answer": 93899,
+        "equation": "403 * 233"
+    },
+    "592": {
+        "answer": 5,
+        "equation": "80 / 16"
+    },
+    "593": {
+        "answer": 14,
+        "equation": "42 / 3"
+    },
+    "594": {
+        "answer": 43,
+        "equation": "215 / 5"
+    },
+    "595": {
+        "answer": 31,
+        "equation": "( 25 + 32 ) - 26"
+    },
+    "596": {
+        "answer": 600,
+        "equation": "( 76 - 64 ) * 50"
+    },
+    "597": {
+        "answer": 2,
+        "equation": "14 / 7"
+    },
+    "598": {
+        "answer": 12,
+        "equation": "6 * 2"
+    },
+    "599": {
+        "answer": 21,
+        "equation": "10 + 11"
+    },
+    "600": {
+        "answer": 68,
+        "equation": "( 10 * 7 ) - 2"
+    },
+    "601": {
+        "answer": 2,
+        "equation": "4 - 2"
+    },
+    "602": {
+        "answer": 70,
+        "equation": "28 + 42"
+    },
+    "603": {
+        "answer": 90,
+        "equation": "115 - 25"
+    },
+    "604": {
+        "answer": 9,
+        "equation": "( 22 - 5 ) - 8"
+    },
+    "605": {
+        "answer": 2673,
+        "equation": "81 * 33"
+    },
+    "606": {
+        "answer": 238,
+        "equation": "61 + 177"
+    },
+    "607": {
+        "answer": 10,
+        "equation": "4 + 6"
+    },
+    "608": {
+        "answer": 78,
+        "equation": "126 - 48"
+    },
+    "609": {
+        "answer": 5,
+        "equation": "12 - 7"
+    },
+    "610": {
+        "answer": 38,
+        "equation": "30 + 8"
+    },
+    "611": {
+        "answer": 308,
+        "equation": "( 10 + 18 ) * 11"
+    },
+    "612": {
+        "answer": 223,
+        "equation": "440 - ( 111 + 106 )"
+    },
+    "613": {
+        "answer": 53,
+        "equation": "60 - 7"
+    },
+    "614": {
+        "answer": 153,
+        "equation": "( 74 - 71 ) * 51"
+    },
+    "615": {
+        "answer": 574,
+        "equation": "557 + 17"
+    },
+    "616": {
+        "answer": 2,
+        "equation": "7 - ( 3 + 2 )"
+    },
+    "617": {
+        "answer": 6,
+        "equation": "36 / 6"
+    },
+    "618": {
+        "answer": 62,
+        "equation": "( 57 + 39 ) - 34"
+    },
+    "619": {
+        "answer": 64,
+        "equation": "26 + 38"
+    },
+    "620": {
+        "answer": 28,
+        "equation": "21 + 7"
+    },
+    "621": {
+        "answer": 2,
+        "equation": "6 - 4"
+    },
+    "622": {
+        "answer": 2,
+        "equation": "( 14 - 2 ) - 10"
+    },
+    "623": {
+        "answer": 1201565,
+        "equation": "610769 + 590796"
+    },
+    "624": {
+        "answer": 2,
+        "equation": "18 - 16"
+    },
+    "625": {
+        "answer": 3,
+        "equation": "5 - 2"
+    },
+    "626": {
+        "answer": 2,
+        "equation": "( 14 - 20 ) + 8"
+    },
+    "627": {
+        "answer": 22,
+        "equation": "16 + 6"
+    },
+    "628": {
+        "answer": 458988,
+        "equation": "34044 + 424944"
+    },
+    "629": {
+        "answer": 89,
+        "equation": "97 - 8"
+    },
+    "630": {
+        "answer": 10,
+        "equation": "12 - 2"
+    },
+    "631": {
+        "answer": 14,
+        "equation": "34 - 20"
+    },
+    "632": {
+        "answer": 26,
+        "equation": "79 - 53"
+    },
+    "633": {
+        "answer": 4,
+        "equation": "12 / 3"
+    },
+    "634": {
+        "answer": 11,
+        "equation": "3 + 8"
+    },
+    "635": {
+        "answer": 42,
+        "equation": "22 + 20"
+    },
+    "636": {
+        "answer": 186,
+        "equation": "31 * 6"
+    },
+    "637": {
+        "answer": 3,
+        "equation": "13 - 10"
+    },
+    "638": {
+        "answer": 2,
+        "equation": "8 / 4"
+    },
+    "639": {
+        "answer": 10,
+        "equation": "2 + 8"
+    },
+    "640": {
+        "answer": 3,
+        "equation": "11 - 8"
+    },
+    "641": {
+        "answer": 2,
+        "equation": "6 / 3"
+    },
+    "642": {
+        "answer": 42,
+        "equation": "( 4 + 22 ) + 16"
+    },
+    "643": {
+        "answer": 22800,
+        "equation": "304 * 75"
+    },
+    "644": {
+        "answer": 369,
+        "equation": "1218 - 849"
+    },
+    "645": {
+        "answer": 12,
+        "equation": "32 - 20"
+    },
+    "646": {
+        "answer": 32,
+        "equation": "40 - 8"
+    },
+    "647": {
+        "answer": 522,
+        "equation": "419 + 103"
+    },
+    "648": {
+        "answer": 566,
+        "equation": "666 - 100"
+    },
+    "649": {
+        "answer": 2,
+        "equation": "( 23 - 15 ) / 4"
+    },
+    "650": {
+        "answer": 2,
+        "equation": "22 / 11"
+    },
+    "651": {
+        "answer": 33,
+        "equation": "( 3 * 8 ) + 9"
+    },
+    "652": {
+        "answer": 6,
+        "equation": "11 - ( 9 - 4 )"
+    },
+    "653": {
+        "answer": 2,
+        "equation": "92 / 46"
+    },
+    "654": {
+        "answer": 14,
+        "equation": "8 + 6"
+    },
+    "655": {
+        "answer": 91,
+        "equation": "66 + 25"
+    },
+    "656": {
+        "answer": 17,
+        "equation": "( 18 + 5 ) - 6"
+    },
+    "657": {
+        "answer": 1363293,
+        "equation": "455682 + 907611"
+    },
+    "658": {
+        "answer": 19,
+        "equation": "9 + 10"
+    },
+    "659": {
+        "answer": 8,
+        "equation": "6 + 2"
+    },
+    "660": {
+        "answer": 1,
+        "equation": "6 - ( 2 + 3 )"
+    },
+    "661": {
+        "answer": 76,
+        "equation": "19 * 4"
+    },
+    "662": {
+        "answer": 5852,
+        "equation": "( 201 + 217 ) * 14"
+    },
+    "663": {
+        "answer": 5,
+        "equation": "17 - 12"
+    },
+    "664": {
+        "answer": 38608,
+        "equation": "313473 - 274865"
+    },
+    "665": {
+        "answer": 30,
+        "equation": "240 - 210"
+    },
+    "666": {
+        "answer": 13,
+        "equation": "7 + 6"
+    },
+    "667": {
+        "answer": 10,
+        "equation": "4 + 6"
+    },
+    "668": {
+        "answer": 9,
+        "equation": "3 + 6"
+    },
+    "669": {
+        "answer": 24,
+        "equation": "92 - 68"
+    },
+    "670": {
+        "answer": 10,
+        "equation": "( 3 + 5 ) + 2"
+    },
+    "671": {
+        "answer": 20,
+        "equation": "7 + 13"
+    },
+    "672": {
+        "answer": 30,
+        "equation": "240 / 8"
+    },
+    "673": {
+        "answer": 7,
+        "equation": "30 - 23"
+    },
+    "674": {
+        "answer": 120,
+        "equation": "( 18 - 10 ) * 15"
+    },
+    "675": {
+        "answer": 17,
+        "equation": "( 16 - 11 ) + 12"
+    },
+    "676": {
+        "answer": 44,
+        "equation": "660 / 15"
+    },
+    "677": {
+        "answer": 15,
+        "equation": "19 - 4"
+    },
+    "678": {
+        "answer": 118,
+        "equation": "38 + 80"
+    },
+    "679": {
+        "answer": 6,
+        "equation": "( 23 - 11 ) / 2"
+    },
+    "680": {
+        "answer": 1,
+        "equation": "( 4 - 2 ) + 3"
+    },
+    "681": {
+        "answer": 105,
+        "equation": "87 + 18"
+    },
+    "682": {
+        "answer": 32,
+        "equation": "67 - 35"
+    },
+    "683": {
+        "answer": 7,
+        "equation": "91 / 13"
+    },
+    "684": {
+        "answer": 4,
+        "equation": "17 - 13"
+    },
+    "685": {
+        "answer": 27,
+        "equation": "56 - 29"
+    },
+    "686": {
+        "answer": 737,
+        "equation": "67 * ( 66 / 6 )"
+    },
+    "687": {
+        "answer": 8265,
+        "equation": "87 * 95"
+    },
+    "688": {
+        "answer": 1,
+        "equation": "6 - ( 3 + 2 )"
+    },
+    "689": {
+        "answer": 14,
+        "equation": "98 / 7"
+    },
+    "690": {
+        "answer": 80,
+        "equation": "27 + 53"
+    },
+    "691": {
+        "answer": 24,
+        "equation": "4 * 6"
+    },
+    "692": {
+        "answer": 146,
+        "equation": "232 - 86"
+    },
+    "693": {
+        "answer": 2,
+        "equation": "68 - 66"
+    },
+    "694": {
+        "answer": 4,
+        "equation": "9 - ( 14 - 9 )"
+    },
+    "695": {
+        "answer": 16,
+        "equation": "7 + 9"
+    },
+    "696": {
+        "answer": 22,
+        "equation": "24 - 2"
+    },
+    "697": {
+        "answer": 22,
+        "equation": "11 * 2"
+    },
+    "698": {
+        "answer": 3,
+        "equation": "10 - 7"
+    },
+    "699": {
+        "answer": 44,
+        "equation": "11 * 4"
+    },
+    "700": {
+        "answer": 6,
+        "equation": "10 - 4"
+    },
+    "701": {
+        "answer": 4,
+        "equation": "6 - 2"
+    },
+    "702": {
+        "answer": 45,
+        "equation": "62 - 17"
+    },
+    "703": {
+        "answer": 22,
+        "equation": "39 - 17"
+    },
+    "704": {
+        "answer": 101,
+        "equation": "151 - 50"
+    },
+    "705": {
+        "answer": 103,
+        "equation": "762 - 659"
+    },
+    "706": {
+        "answer": 126,
+        "equation": "78 + 48"
+    },
+    "707": {
+        "answer": 13,
+        "equation": "( 19 - 11 ) + 5"
+    },
+    "708": {
+        "answer": 4,
+        "equation": "8 - 4"
+    },
+    "709": {
+        "answer": 9,
+        "equation": "2 + 7"
+    },
+    "710": {
+        "answer": 45,
+        "equation": "9 * ( 10 / 2 )"
+    },
+    "711": {
+        "answer": 2,
+        "equation": "9 - 7"
+    },
+    "712": {
+        "answer": 41,
+        "equation": "60 - 19"
+    },
+    "713": {
+        "answer": 15,
+        "equation": "18 - 3"
+    },
+    "714": {
+        "answer": 25,
+        "equation": "97 - 72"
+    },
+    "715": {
+        "answer": 348,
+        "equation": "182 + 166"
+    },
+    "716": {
+        "answer": 8,
+        "equation": "13 - ( 9 - 4 )"
+    },
+    "717": {
+        "answer": 1,
+        "equation": "4 - 3"
+    },
+    "718": {
+        "answer": 13,
+        "equation": "81 - 68"
+    },
+    "719": {
+        "answer": 2,
+        "equation": "56 / 28"
+    },
+    "720": {
+        "answer": 32,
+        "equation": "84 - 52"
+    },
+    "721": {
+        "answer": 51,
+        "equation": "71 - 20"
+    },
+    "722": {
+        "answer": 268627,
+        "equation": "898051 - 629424"
+    },
+    "723": {
+        "answer": 14,
+        "equation": "21 - 7"
+    },
+    "724": {
+        "answer": 3,
+        "equation": "33 / 11"
+    },
+    "725": {
+        "answer": 143550,
+        "equation": "( 66 * 87 ) * 25"
+    },
+    "726": {
+        "answer": 106,
+        "equation": "242 - 136"
+    },
+    "727": {
+        "answer": 574,
+        "equation": "90 + 484"
+    },
+    "728": {
+        "answer": 4,
+        "equation": "12 - ( 21 - 13 )"
+    },
+    "729": {
+        "answer": 15,
+        "equation": "( 10 + 7 ) - 2"
+    },
+    "730": {
+        "answer": 13,
+        "equation": "23 - 10"
+    },
+    "731": {
+        "answer": 6,
+        "equation": "21 - 15"
+    },
+    "732": {
+        "answer": 1,
+        "equation": "3 - 2"
+    },
+    "733": {
+        "answer": 54,
+        "equation": "270 / 5"
+    },
+    "734": {
+        "answer": 7,
+        "equation": "32 - 25"
+    },
+    "735": {
+        "answer": 4,
+        "equation": "32 / 8"
+    },
+    "736": {
+        "answer": 27,
+        "equation": "62 - 35"
+    },
+    "737": {
+        "answer": 229,
+        "equation": "213 + 16"
+    },
+    "738": {
+        "answer": 2,
+        "equation": "7 - 5"
+    },
+    "739": {
+        "answer": 1,
+        "equation": "( 22 - 17 ) / 5"
+    },
+    "740": {
+        "answer": 1,
+        "equation": "22 - 21"
+    },
+    "741": {
+        "answer": 20,
+        "equation": "40 / 2"
+    },
+    "742": {
+        "answer": 65,
+        "equation": "( 6 + 7 ) * 5"
+    },
+    "743": {
+        "answer": 11,
+        "equation": "( 6 - 2 ) + 7"
+    },
+    "744": {
+        "answer": 17,
+        "equation": "( 8 + 12 ) - 3"
+    },
+    "745": {
+        "answer": 17,
+        "equation": "21 - 4"
+    },
+    "746": {
+        "answer": 190,
+        "equation": "( 173 - 86 ) + 103"
+    },
+    "747": {
+        "answer": 2,
+        "equation": "11 - 9"
+    },
+    "748": {
+        "answer": 63,
+        "equation": "( 4 + 5 ) * 7"
+    },
+    "749": {
+        "answer": 2,
+        "equation": "7 - ( 2 + 3 )"
+    },
+    "750": {
+        "answer": 30057,
+        "equation": "91676 - 61619"
+    },
+    "751": {
+        "answer": 192,
+        "equation": "66 + 126"
+    },
+    "752": {
+        "answer": 2,
+        "equation": "10 - 8"
+    },
+    "753": {
+        "answer": 265,
+        "equation": "376 - 111"
+    },
+    "754": {
+        "answer": 298,
+        "equation": "( 257 + 403 ) - 362"
+    },
+    "755": {
+        "answer": 728,
+        "equation": "551 + 177"
+    },
+    "756": {
+        "answer": 21,
+        "equation": "42 / 2"
+    },
+    "757": {
+        "answer": 4,
+        "equation": "16 - 12"
+    },
+    "758": {
+        "answer": 45,
+        "equation": "86 - 41"
+    },
+    "759": {
+        "answer": 1,
+        "equation": "6 - 5"
+    },
+    "760": {
+        "answer": 3168,
+        "equation": "144 * 22"
+    },
+    "761": {
+        "answer": 345,
+        "equation": "( 19 + 4 ) * 15"
+    },
+    "762": {
+        "answer": 3,
+        "equation": "5 - 2"
+    },
+    "763": {
+        "answer": 28,
+        "equation": "11 + 17"
+    },
+    "764": {
+        "answer": 77,
+        "equation": "308 - 231"
+    },
+    "765": {
+        "answer": 2226,
+        "equation": "919 + 1307"
+    },
+    "766": {
+        "answer": 29,
+        "equation": "203 / 7"
+    },
+    "767": {
+        "answer": 14,
+        "equation": "20 - 6"
+    },
+    "768": {
+        "answer": 10,
+        "equation": "15 - 5"
+    },
+    "769": {
+        "answer": 78,
+        "equation": "59 + 19"
+    },
+    "770": {
+        "answer": 14,
+        "equation": "19 - 5"
+    },
+    "771": {
+        "answer": 1,
+        "equation": "( 14 - 4 ) - 9"
+    },
+    "772": {
+        "answer": 2050,
+        "equation": "82 * 25"
+    },
+    "773": {
+        "answer": 7,
+        "equation": "10 - 3"
+    },
+    "774": {
+        "answer": 121,
+        "equation": "80 + 41"
+    },
+    "775": {
+        "answer": 21,
+        "equation": "12 + 9"
+    },
+    "776": {
+        "answer": 420,
+        "equation": "12 * 35"
+    },
+    "777": {
+        "answer": 145,
+        "equation": "290 / 2"
+    },
+    "778": {
+        "answer": 24,
+        "equation": "384 / 16"
+    },
+    "779": {
+        "answer": 12,
+        "equation": "17 - 5"
+    },
+    "780": {
+        "answer": 1012,
+        "equation": "22 * 46"
+    },
+    "781": {
+        "answer": 31,
+        "equation": "( 106 - 26 ) - 49"
+    },
+    "782": {
+        "answer": 28,
+        "equation": "33 - 5"
+    },
+    "783": {
+        "answer": 12,
+        "equation": "( 6 + 2 ) + 4"
+    },
+    "784": {
+        "answer": 28,
+        "equation": "392 / 14"
+    },
+    "785": {
+        "answer": 60,
+        "equation": "( 24 + 27 ) + 9"
+    },
+    "786": {
+        "answer": 7,
+        "equation": "35 / 5"
+    },
+    "787": {
+        "answer": 39,
+        "equation": "41 - 2"
+    },
+    "788": {
+        "answer": 65,
+        "equation": "12 + 53"
+    },
+    "789": {
+        "answer": 2,
+        "equation": "5 - 3"
+    },
+    "790": {
+        "answer": 11,
+        "equation": "42 - 31"
+    },
+    "791": {
+        "answer": 12,
+        "equation": "58 - 46"
+    },
+    "792": {
+        "answer": 5,
+        "equation": "20 / 4"
+    },
+    "793": {
+        "answer": 15,
+        "equation": "( 2 + 3 ) + 10"
+    },
+    "794": {
+        "answer": 3,
+        "equation": "6 - 3"
+    },
+    "795": {
+        "answer": 111,
+        "equation": "( 110 - 75 ) + 76"
+    },
+    "796": {
+        "answer": 59,
+        "equation": "167 - 108"
+    },
+    "797": {
+        "answer": 14,
+        "equation": "21 - 7"
+    },
+    "798": {
+        "answer": 7,
+        "equation": "14 / 2"
+    },
+    "799": {
+        "answer": 9,
+        "equation": "( 22 - 6 ) - 7"
+    },
+    "800": {
+        "answer": 3,
+        "equation": "6 - 3"
+    },
+    "801": {
+        "answer": 5,
+        "equation": "4 - ( 3 - 4 )"
+    },
+    "802": {
+        "answer": 22,
+        "equation": "14 + 8"
+    },
+    "803": {
+        "answer": 11,
+        "equation": "5 + 6"
+    },
+    "804": {
+        "answer": 2,
+        "equation": "10 - 8"
+    },
+    "805": {
+        "answer": 112,
+        "equation": "131 - 19"
+    },
+    "806": {
+        "answer": 2,
+        "equation": "7 - 5"
+    },
+    "807": {
+        "answer": 32,
+        "equation": "18 + 14"
+    },
+    "808": {
+        "answer": 8,
+        "equation": "32 / 4"
+    },
+    "809": {
+        "answer": 4,
+        "equation": "56 / 14"
+    },
+    "810": {
+        "answer": 20,
+        "equation": "14 + 6"
+    },
+    "811": {
+        "answer": 21,
+        "equation": "13 + 8"
+    },
+    "812": {
+        "answer": 14,
+        "equation": "41 - 27"
+    },
+    "813": {
+        "answer": 1,
+        "equation": "16 - 15"
+    },
+    "814": {
+        "answer": 33,
+        "equation": "93 - 60"
+    },
+    "815": {
+        "answer": 1453,
+        "equation": "( 563 + 558 ) + 332"
+    },
+    "816": {
+        "answer": 17,
+        "equation": "4 + 13"
+    },
+    "817": {
+        "answer": 2,
+        "equation": "16 - 14"
+    },
+    "818": {
+        "answer": 32,
+        "equation": "169 - 137"
+    },
+    "819": {
+        "answer": 3,
+        "equation": "( 5 + 7 ) - 9"
+    },
+    "820": {
+        "answer": 7,
+        "equation": "133 / 19"
+    },
+    "821": {
+        "answer": 242,
+        "equation": "137 + 105"
+    },
+    "822": {
+        "answer": 90,
+        "equation": "16 + 74"
+    },
+    "823": {
+        "answer": 2,
+        "equation": "14 / 7"
+    },
+    "824": {
+        "answer": 2,
+        "equation": "36 / 18"
+    },
+    "825": {
+        "answer": 105,
+        "equation": "( 80 + 31 ) - 6"
+    },
+    "826": {
+        "answer": 10,
+        "equation": "17 - 7"
+    },
+    "827": {
+        "answer": 69,
+        "equation": "74 - 5"
+    },
+    "828": {
+        "answer": 527292,
+        "equation": "388 * 1359"
+    },
+    "829": {
+        "answer": 1,
+        "equation": "( 11 - 8 ) / 3"
+    },
+    "830": {
+        "answer": 1,
+        "equation": "17 - 16"
+    },
+    "831": {
+        "answer": 826,
+        "equation": "( 324 + 374 ) + 128"
+    },
+    "832": {
+        "answer": 574664,
+        "equation": "777622 - 202958"
+    },
+    "833": {
+        "answer": 1,
+        "equation": "6 - ( 3 + 2 )"
+    },
+    "834": {
+        "answer": 10,
+        "equation": "22 - 12"
+    },
+    "835": {
+        "answer": 16,
+        "equation": "12 + 4"
+    },
+    "836": {
+        "answer": 110,
+        "equation": "( 57 + 26 ) + 27"
+    },
+    "837": {
+        "answer": 24,
+        "equation": "288 - 264"
+    },
+    "838": {
+        "answer": 34,
+        "equation": "( 9 + 8 ) + 17"
+    },
+    "839": {
+        "answer": 25,
+        "equation": "85 - ( 23 + 37 )"
+    },
+    "840": {
+        "answer": 946,
+        "equation": "902 + 44"
+    },
+    "841": {
+        "answer": 5,
+        "equation": "7 - 2"
+    },
+    "842": {
+        "answer": 2,
+        "equation": "18 - ( 5 + 11 )"
+    },
+    "843": {
+        "answer": 5,
+        "equation": "120 / 24"
+    },
+    "844": {
+        "answer": 14,
+        "equation": "56 / 4"
+    },
+    "845": {
+        "answer": 6,
+        "equation": "21 - 15"
+    },
+    "846": {
+        "answer": 1,
+        "equation": "6 - ( 2 + 3 )"
+    },
+    "847": {
+        "answer": 2080,
+        "equation": "( 28 + 52 ) * 26"
+    },
+    "848": {
+        "answer": 10,
+        "equation": "6 + 4"
+    },
+    "849": {
+        "answer": 7,
+        "equation": "( 11 - 2 ) - 2"
+    },
+    "850": {
+        "answer": 9,
+        "equation": "6 + 3"
+    },
+    "851": {
+        "answer": 11346,
+        "equation": "62 * 183"
+    },
+    "852": {
+        "answer": 7,
+        "equation": "37 - 30"
+    },
+    "853": {
+        "answer": 13,
+        "equation": "30 - ( 47 - 30 )"
+    },
+    "854": {
+        "answer": 96,
+        "equation": "16 * 6"
+    },
+    "855": {
+        "answer": 11,
+        "equation": "3 + 8"
+    },
+    "856": {
+        "answer": 2,
+        "equation": "14 / 7"
+    },
+    "857": {
+        "answer": 99,
+        "equation": "264 - ( 15 * 11 )"
+    },
+    "858": {
+        "answer": 24,
+        "equation": "34 - 10"
+    },
+    "859": {
+        "answer": 2436,
+        "equation": "( 23 + 61 ) * 29"
+    },
+    "860": {
+        "answer": 210,
+        "equation": "7 * 30"
+    },
+    "861": {
+        "answer": 45,
+        "equation": "148 - 103"
+    },
+    "862": {
+        "answer": 1,
+        "equation": "14 - 13"
+    },
+    "863": {
+        "answer": 6,
+        "equation": "12 / 2"
+    },
+    "864": {
+        "answer": 22,
+        "equation": "88 / 4"
+    },
+    "865": {
+        "answer": 14,
+        "equation": "33 - 19"
+    },
+    "866": {
+        "answer": 109,
+        "equation": "136 - 27"
+    },
+    "867": {
+        "answer": 146,
+        "equation": "166 - 20"
+    },
+    "868": {
+        "answer": 2,
+        "equation": "392 / 196"
+    },
+    "869": {
+        "answer": 3,
+        "equation": "12 - 9"
+    },
+    "870": {
+        "answer": 2,
+        "equation": "26 / 13"
+    },
+    "871": {
+        "answer": 10,
+        "equation": "18 - 8"
+    },
+    "872": {
+        "answer": 99,
+        "equation": "11 * 9"
+    },
+    "873": {
+        "answer": 9,
+        "equation": "30 - 21"
+    },
+    "874": {
+        "answer": 39,
+        "equation": "( 105 + 71 ) - 137"
+    },
+    "875": {
+        "answer": 3834,
+        "equation": "( 21 * 216 ) - 702"
+    },
+    "876": {
+        "answer": 265,
+        "equation": "( 234 + 566 ) - 535"
+    },
+    "877": {
+        "answer": 5,
+        "equation": "20 / 4"
+    },
+    "878": {
+        "answer": 8,
+        "equation": "31 - 23"
+    },
+    "879": {
+        "answer": 72,
+        "equation": "6 * 12"
+    },
+    "880": {
+        "answer": 6,
+        "equation": "( 26 - 10 ) - 10"
+    },
+    "881": {
+        "answer": 3,
+        "equation": "7 - 4"
+    },
+    "882": {
+        "answer": 41,
+        "equation": "43 - 2"
+    },
+    "883": {
+        "answer": 8,
+        "equation": "3 + 5"
+    },
+    "884": {
+        "answer": 39,
+        "equation": "53 - 14"
+    },
+    "885": {
+        "answer": 3,
+        "equation": "6 / 2"
+    },
+    "886": {
+        "answer": 10,
+        "equation": "15 - 5"
+    },
+    "887": {
+        "answer": 44,
+        "equation": "50 - 6"
+    },
+    "888": {
+        "answer": 12,
+        "equation": "( 36 - 10 ) - 14"
+    },
+    "889": {
+        "answer": 45,
+        "equation": "( 5 * 10 ) - 5"
+    },
+    "890": {
+        "answer": 208,
+        "equation": "13 * 16"
+    },
+    "891": {
+        "answer": 136,
+        "equation": "( 177 + 12 ) - 53"
+    },
+    "892": {
+        "answer": 1,
+        "equation": "8 - 7"
+    },
+    "893": {
+        "answer": 9,
+        "equation": "61 - 52"
+    },
+    "894": {
+        "answer": 1,
+        "equation": "14 - 13"
+    },
+    "895": {
+        "answer": 8066,
+        "equation": "109 * 74"
+    },
+    "896": {
+        "answer": 3,
+        "equation": "6 / 2"
+    },
+    "897": {
+        "answer": 7,
+        "equation": "( 28 + 14 ) / 6"
+    },
+    "898": {
+        "answer": 6,
+        "equation": "17 - 11"
+    },
+    "899": {
+        "answer": 13,
+        "equation": "5 + 8"
+    },
+    "900": {
+        "answer": 23,
+        "equation": "59 - 36"
+    },
+    "901": {
+        "answer": 3,
+        "equation": "20 - 17"
+    },
+    "902": {
+        "answer": 10,
+        "equation": "( 9 - 4 ) + 5"
+    },
+    "903": {
+        "answer": 2,
+        "equation": "8 - 6"
+    },
+    "904": {
+        "answer": 1,
+        "equation": "12 - 11"
+    },
+    "905": {
+        "answer": 7,
+        "equation": "9 - ( 6 - 4 )"
+    },
+    "906": {
+        "answer": 6,
+        "equation": "( 2 * 12 ) / 4"
+    },
+    "907": {
+        "answer": 156,
+        "equation": "6 * ( 12 + 14 )"
+    },
+    "908": {
+        "answer": 3,
+        "equation": "6 - 3"
+    },
+    "909": {
+        "answer": 30,
+        "equation": "20 + 10"
+    },
+    "910": {
+        "answer": 53,
+        "equation": "36 + 17"
+    },
+    "911": {
+        "answer": 112,
+        "equation": "28 * 4"
+    },
+    "912": {
+        "answer": 11,
+        "equation": "158 - 147"
+    },
+    "913": {
+        "answer": 1455,
+        "equation": "( 868 + 868 ) - 281"
+    },
+    "914": {
+        "answer": 53,
+        "equation": "( 51 + 51 ) - 49"
+    },
+    "915": {
+        "answer": 73,
+        "equation": "( 87 - 7 ) - 7"
+    },
+    "916": {
+        "answer": 253,
+        "equation": "485 - 232"
+    },
+    "917": {
+        "answer": 123,
+        "equation": "134 - 11"
+    },
+    "918": {
+        "answer": 276,
+        "equation": "528 - 252"
+    },
+    "919": {
+        "answer": 10,
+        "equation": "( 102 - 22 ) / 8"
+    },
+    "920": {
+        "answer": 2,
+        "equation": "4 / 2"
+    },
+    "921": {
+        "answer": 7,
+        "equation": "12 - 5"
+    },
+    "922": {
+        "answer": 5,
+        "equation": "44 - 39"
+    },
+    "923": {
+        "answer": 198,
+        "equation": "594 / 3"
+    },
+    "924": {
+        "answer": 62,
+        "equation": "( 4 * 20 ) - 18"
+    },
+    "925": {
+        "answer": 21,
+        "equation": "13 + 8"
+    },
+    "926": {
+        "answer": 123,
+        "equation": "178 - 55"
+    },
+    "927": {
+        "answer": 7,
+        "equation": "24 - 17"
+    },
+    "928": {
+        "answer": 41,
+        "equation": "25 + 16"
+    },
+    "929": {
+        "answer": 49,
+        "equation": "( 10 * 6 ) - 11"
+    },
+    "930": {
+        "answer": 1791,
+        "equation": "( 512 + 471 ) + 808"
+    },
+    "931": {
+        "answer": 19,
+        "equation": "44 - 25"
+    },
+    "932": {
+        "answer": 3021,
+        "equation": "53 * 57"
+    },
+    "933": {
+        "answer": 94,
+        "equation": "( 2 + 150 ) - 58"
+    },
+    "934": {
+        "answer": 1,
+        "equation": "6 - ( 2 + 3 )"
+    },
+    "935": {
+        "answer": 621,
+        "equation": "27 * 23"
+    },
+    "936": {
+        "answer": 353,
+        "equation": "391 - 38"
+    },
+    "937": {
+        "answer": 76,
+        "equation": "1216 / 16"
+    },
+    "938": {
+        "answer": 17,
+        "equation": "( 10 + 11 ) - 4"
+    },
+    "939": {
+        "answer": 33,
+        "equation": "165 / 5"
+    },
+    "940": {
+        "answer": 10,
+        "equation": "12 - 2"
+    },
+    "941": {
+        "answer": 2,
+        "equation": "18 / 9"
+    },
+    "942": {
+        "answer": 23,
+        "equation": "18 + 5"
+    },
+    "943": {
+        "answer": 1,
+        "equation": "15 - 14"
+    },
+    "944": {
+        "answer": 3,
+        "equation": "82 - 79"
+    },
+    "945": {
+        "answer": 14,
+        "equation": "28 / 2"
+    },
+    "946": {
+        "answer": 26,
+        "equation": "57 - 31"
+    },
+    "947": {
+        "answer": 14,
+        "equation": "23 - 9"
+    },
+    "948": {
+        "answer": 1,
+        "equation": "5 - 4"
+    },
+    "949": {
+        "answer": 22922,
+        "equation": "157 * 146"
+    },
+    "950": {
+        "answer": 7,
+        "equation": "23 - 16"
+    },
+    "951": {
+        "answer": 58,
+        "equation": "19 + 39"
+    },
+    "952": {
+        "answer": 16,
+        "equation": "5 + 11"
+    },
+    "953": {
+        "answer": 274,
+        "equation": "406 - 132"
+    },
+    "954": {
+        "answer": 3,
+        "equation": "29 - 26"
+    },
+    "955": {
+        "answer": 1,
+        "equation": "18 - 17"
+    },
+    "956": {
+        "answer": 347,
+        "equation": "521 - 174"
+    },
+    "957": {
+        "answer": 54,
+        "equation": "19 + 35"
+    },
+    "958": {
+        "answer": 7,
+        "equation": "21 / 3"
+    },
+    "959": {
+        "answer": 8,
+        "equation": "( 39 - 19 ) - 12"
+    },
+    "960": {
+        "answer": 15,
+        "equation": "90 / 6"
+    },
+    "961": {
+        "answer": 92,
+        "equation": "84 + 8"
+    },
+    "962": {
+        "answer": 6264,
+        "equation": "108 * 58"
+    },
+    "963": {
+        "answer": 784,
+        "equation": "829 - 45"
+    },
+    "964": {
+        "answer": 1,
+        "equation": "10 - 9"
+    },
+    "965": {
+        "answer": 2,
+        "equation": "( 12 / 2 ) - 4"
+    },
+    "966": {
+        "answer": 1,
+        "equation": "40 - 39"
+    },
+    "967": {
+        "answer": 2,
+        "equation": "38 / 19"
+    },
+    "968": {
+        "answer": 1,
+        "equation": "( 10 - 7 ) - 2"
+    },
+    "969": {
+        "answer": 38,
+        "equation": "( 13 + 10 ) + 15"
+    },
+    "970": {
+        "answer": 2,
+        "equation": "10 / 5"
+    },
+    "971": {
+        "answer": 57,
+        "equation": "( 4502 + 4276 ) / 154"
+    },
+    "972": {
+        "answer": 1088,
+        "equation": "( 4 * 17 ) * 16"
+    },
+    "973": {
+        "answer": 32,
+        "equation": "53 - 21"
+    },
+    "974": {
+        "answer": 3,
+        "equation": "24 - 21"
+    },
+    "975": {
+        "answer": 4,
+        "equation": "36 - ( 17 + 15 )"
+    },
+    "976": {
+        "answer": 34,
+        "equation": "20 + 14"
+    },
+    "977": {
+        "answer": 41,
+        "equation": "492 / 12"
+    },
+    "978": {
+        "answer": 25,
+        "equation": "58 - 33"
+    },
+    "979": {
+        "answer": 7,
+        "equation": "12 - 5"
+    },
+    "980": {
+        "answer": 127,
+        "equation": "( 81 + 92 ) - 46"
+    },
+    "981": {
+        "answer": 5,
+        "equation": "15 - 10"
+    },
+    "982": {
+        "answer": 23,
+        "equation": "62 - 39"
+    },
+    "983": {
+        "answer": 1396,
+        "equation": "( 315 + 309 ) + 772"
+    },
+    "984": {
+        "answer": 2,
+        "equation": "10 / 5"
+    },
+    "985": {
+        "answer": 1054997,
+        "equation": "( 28 + 939 ) * 1091"
+    },
+    "986": {
+        "answer": 8,
+        "equation": "11 - 3"
+    },
+    "987": {
+        "answer": 6,
+        "equation": "9 - 3"
+    },
+    "988": {
+        "answer": 5,
+        "equation": "3 + 2"
+    },
+    "989": {
+        "answer": 15089,
+        "equation": "( 109 + 82 ) * 79"
+    },
+    "990": {
+        "answer": 3,
+        "equation": "7 - 4"
+    },
+    "991": {
+        "answer": 81,
+        "equation": "( 15 - 6 ) * 9"
+    },
+    "992": {
+        "answer": 626,
+        "equation": "308 + 318"
+    },
+    "993": {
+        "answer": 6,
+        "equation": "63 - 57"
+    },
+    "994": {
+        "answer": 42,
+        "equation": "84 / 2"
+    },
+    "995": {
+        "answer": 331,
+        "equation": "353 - 22"
+    },
+    "996": {
+        "answer": 3,
+        "equation": "36 / 12"
+    },
+    "997": {
+        "answer": 56,
+        "equation": "75 - 19"
+    },
+    "998": {
+        "answer": 220,
+        "equation": "60 * ( 55 / 15 )"
+    },
+    "999": {
+        "answer": 3,
+        "equation": "7 - 4"
+    },
+    "1000": {
+        "answer": 11,
+        "equation": "13 - 2"
+    }
+}
